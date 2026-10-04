@@ -1,0 +1,31 @@
+{
+  "name": "ta.vp",
+  "version": "1.0.0",
+  "description": "veebiprogrammeerimise tundides tehtud veeb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://kriskapa514@github.com/kriskapa514/TA.vp.git"
+  },
+  "keywords": [
+    "node.js",
+    "tallinna",
+    "ülikool",
+    "veeb",
+    "koolitöö",
+    "tudeng"
+  ],
+  "author": "Kristen Kapaun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kriskapa514/TA.vp/issues"
+  },
+  "homepage": "https://github.com/kriskapa514/TA.vp#readme",
+  "dependencies": {
+    "ejs": "^6.0.1",
+    "express": "^5.2.1"
+  }
+}
